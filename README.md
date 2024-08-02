@@ -20,6 +20,4 @@ Hi, I'm Shubham Tade, a Data Analyst 🚀 from Pune India, I enjoy using my obse
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Animated Image](https://i.gifer.com/75ez.gif)
-<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/75ez" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-</a>
+
