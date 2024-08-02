@@ -19,7 +19,4 @@ Hi, I'm Shubham Tade, a Data Analyst 🚀 from Pune India, I enjoy using my obse
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-![Alt Text](https://i.gifer.com/75ez.gif)
-
 ![Fun GIF](https://i.gifer.com/75ez.gif)
