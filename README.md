@@ -6,12 +6,12 @@
 
 Hi, I'm Shubham Tade, a Data Analyst 🚀 from Pune India, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. Exploring Data Science, I Love Programming, Reading and Travelling.
 ## Talking about Personal Stuff:
-- 👩‍💻 I’m currently working on [Current Projects];
-- 🌱 I’m currently learning [New Skill or Technology] ❄️;
-- 🤝 I’m happy to collaborate with [Community or Field] community 🤝;
-- 🤔 I’m somewhat fine with [Skill you are comfortable with];
+- 👩‍💻 I’m currently working on Various Data Science Topics and Projects;
+- 🌱 I’m currently learning Microsoft Advanced Power bi ;
+- 🤝 I’m happy to collaborate with Data Science community🤝;
+- 🤔 I’m somewhat fine with Machine Learning;
 - 💬 Ask me about anything, I am happy to help you through my knowledge.
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [shubhamgtade123@gmail.com](mailto:youremail@example.com)
 
 ## Languages and Tools:
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -19,3 +19,5 @@ Hi, I'm Shubham Tade, a Data Analyst 🚀 from Pune India, I enjoy using my obse
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Animated Image](https://media.giphy.com/media/l3vQXpNb4iA34rQC0/giphy.gif)
