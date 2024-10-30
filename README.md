@@ -1,6 +1,6 @@
 # Hi there, I'm [Shubham Tade] 👋
 
-<a href="https://www.linkedin.com/in/shubham-tade-522649239" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/shubham-tade123" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
