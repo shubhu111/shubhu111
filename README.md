@@ -7,7 +7,7 @@
 Hi, I'm Shubham Tade, a Data Analyst 🚀 from Pune India, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. Exploring Data Science, I Love Programming, Reading and Travelling.
 ## Talking about Personal Stuff:
 - 👩‍💻 I’m currently working on Various Data Science Topics and Projects;
-- 🌱 I’m currently learning Microsoft Advanced Power bi ;
+- 🌱 I’m currently learning Artificial Intelligence (AI Neural Networks) ;
 - 🤝 I’m happy to collaborate with Data Science community🤝;
 - 🤔 I’m somewhat fine with Machine Learning;
 - 💬 Ask me about anything, I am happy to help you through my knowledge.
