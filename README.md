@@ -4,10 +4,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-Hi, I'm Shubham Tade, a Data Analyst 🚀 from Pune India, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. Exploring Data Science, I Love Programming, Reading and Travelling.
+Hi, I'm Shubham Tade, a Data Scientist and Analyst 🚀 from Pune India, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. Exploring Data Science, I Love Programming, Reading and Travelling.
 ## Talking about Personal Stuff:
 - 👩‍💻 I’m currently working on Various Data Science Topics and Projects;
-- 🌱 I’m currently learning Artificial Intelligence (AI Neural Networks) ;
+- 🌱 I’m currently learning Generative AI ;
 - 🤝 I’m happy to collaborate with Data Science community🤝;
 - 🤔 I’m somewhat fine with Machine Learning;
 - 💬 Ask me about anything, I am happy to help you through my knowledge.
