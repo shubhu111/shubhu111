@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-Hi, I'm Shubham Tade, a Data Scientist and Analyst 🚀 from Pune India, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. Exploring Data Science, I Love Programming, Reading and Travelling.
+AI and Data Science professional with hands-on experience in data automation, analysis, and AI-assisted development. At PandoAI Solutions, I contributed to building scalable data pipelines, integrating healthcare datasets, and improving data accessibility through intelligent automation
 ## Talking about Personal Stuff:
 - 👩‍💻 I’m currently working on Various Data Science Topics and Projects;
 - 🌱 I’m currently learning Generative AI ;
