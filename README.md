@@ -9,7 +9,7 @@ AI and Data Science professional with hands-on experience in data automation, an
 - 👩‍💻 I’m currently working on Various Data Science Topics and Projects;
 - 🌱 I’m currently learning Agentic AI ;
 - 🤝 I’m happy to collaborate with Data Science community🤝;
-- 🤔 I’m somewhat fine with Machine Learning;
+- 🤔 I’m somewhat fine with Machine Learning, Deep Learning and Gen AI;
 - 💬 Ask me about anything, I am happy to help you through my knowledge.
 - 📫 How to reach me: [shubhamgtade123@gmail.com](mailto:youremail@example.com)
 
