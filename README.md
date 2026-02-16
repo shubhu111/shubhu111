@@ -7,7 +7,7 @@
 AI and Data Science professional with hands-on experience in data automation, analysis, and AI-assisted development. At PandoAI Solutions, I contributed to building scalable data pipelines, integrating healthcare datasets, and improving data accessibility through intelligent automation
 ## Talking about Personal Stuff:
 - 👩‍💻 I’m currently working on Various Data Science Topics and Projects;
-- 🌱 I’m currently learning Generative AI ;
+- 🌱 I’m currently learning Agentic AI ;
 - 🤝 I’m happy to collaborate with Data Science community🤝;
 - 🤔 I’m somewhat fine with Machine Learning;
 - 💬 Ask me about anything, I am happy to help you through my knowledge.
