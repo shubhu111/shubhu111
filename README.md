@@ -6,7 +6,7 @@
 <a href="https://shubham-tade.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" width="100" />      
 </a>
-<a href="mailto:Shubhamgtade123@gmail.com">
+<a href="mailto:shubhamgtade123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80" />
 </a>
 
