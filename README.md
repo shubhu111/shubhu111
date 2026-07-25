@@ -12,6 +12,7 @@ AI and Data Science professional with hands-on experience in data automation, an
 - 🤔 I’m somewhat fine with Machine Learning, Deep Learning and Gen AI;
 - 💬 Ask me about anything, I am happy to help you through my knowledge.
 - 📫 How to reach me: [shubhamgtade123@gmail.com](mailto:youremail@example.com)
+- About me : [https://shubham-tade.vercel.app/]
 
 ## Languages and Tools:
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
