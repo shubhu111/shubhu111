@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/shubham-tade123" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="https://shubham-tade.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" width="100" />      
+</a>
 
 AI and Data Science professional with hands-on experience in data automation, analysis, and AI-assisted development. At PandoAI Solutions, I contributed to building scalable data pipelines, integrating healthcare datasets, and improving data accessibility through intelligent automation
 ## Talking about Personal Stuff:
